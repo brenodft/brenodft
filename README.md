@@ -1,5 +1,5 @@
 ### Olá, eu sou o Breno! 👋 
-#### Tenho 18 anos, cursando ciência da computação na PUC Minas.
+#### Tenho 19 anos, cursando ciência da computação na PUC Minas.
 <hr> </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-pires-santos-98b192256/)
