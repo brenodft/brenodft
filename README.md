@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenop1509/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenodft&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenodft&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias das quais eu possuo algum conhecimento:
 <div style="display: inline_block">
