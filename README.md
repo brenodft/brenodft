@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenop1509/)
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=brenodft" height="150"   />
-[![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=brenodft&theme=blue-green)]
+
 
 ### Tecnologias das quais eu possuo algum conhecimento:
 <div style="display: inline_block">
